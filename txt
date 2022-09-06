@@ -1,0 +1,2 @@
+git init : Initialize the folder as a git repository
+git add . : Add all files int git
