@@ -1,7 +1,7 @@
 // API = Application Programming Interface
 // An intermediary (interface) that allows two applications to interract
 
-// Fetch API
+// Fetch API : Test API
 fetch("http://fakestoreapi.com/products")
 .then(res => res.json())
 .then(data => {
